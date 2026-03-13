@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksim4ikL1</h1>
+<h1 align="center">Hi 👋, I'm Nebambuk</h1>
 
 <p align="center">
 I am a web developer, mobile developer and Python programmer. I care about creating user-friendly and intuitive interfaces that impress users with their functionality and quality of interaction. I like to create scripts in order to save time.
